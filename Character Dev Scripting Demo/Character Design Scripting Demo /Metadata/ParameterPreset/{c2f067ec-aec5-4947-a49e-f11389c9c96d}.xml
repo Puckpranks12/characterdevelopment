@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{c2f067ec-aec5-4947-a49e-f11389c9c96d}">
+        <property name="name">
+            <value>isMeteor</value>
+        </property>
+        <relationship name="folder">
+            <destination>{d571b324-6b95-4ec0-b5b4-e0beba840d59}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{f0d8d1ce-9d27-44b2-b850-78d48ea242cb}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{f0d8d1ce-9d27-44b2-b850-78d48ea242cb}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

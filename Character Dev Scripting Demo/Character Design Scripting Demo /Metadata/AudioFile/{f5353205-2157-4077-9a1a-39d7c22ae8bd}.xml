@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f5353205-2157-4077-9a1a-39d7c22ae8bd}">
+        <property name="assetPath">
+            <value>Meteor_01.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.5673469387755101</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f3b011d0-5947-4f37-8640-af3a8395496a}</destination>
+        </relationship>
+    </object>
+</objects>

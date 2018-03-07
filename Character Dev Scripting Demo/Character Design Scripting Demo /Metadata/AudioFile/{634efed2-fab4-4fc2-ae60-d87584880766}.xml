@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{634efed2-fab4-4fc2-ae60-d87584880766}">
+        <property name="assetPath">
+            <value>roaring fire 04.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>18.777750000000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f3b011d0-5947-4f37-8640-af3a8395496a}</destination>
+        </relationship>
+    </object>
+</objects>
